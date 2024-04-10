@@ -8,6 +8,11 @@ fields:
         type: text
         commentAbove: 'Full Project Title (Header)'
         span: auto
+    pilot_number:
+        label: Pilot Title
+        type: text
+        commentAbove: 'Add pilot number (Number)'
+        span: auto
     published:
         label: Published
         type: switch
